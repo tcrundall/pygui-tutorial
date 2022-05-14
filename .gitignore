@@ -1,0 +1,4 @@
+# pyinstaller generated files/dirs
+*dist
+build
+*.spec

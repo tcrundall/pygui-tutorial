@@ -1,1 +1,1 @@
-pyinstaller --onefile --windowed hello.py
+pyinstaller -y --onefile --windowed hello_numpy.py

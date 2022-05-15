@@ -5,3 +5,6 @@ build
 
 # logs
 *.log
+
+# ????
+*DS_Store
